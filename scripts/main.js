@@ -1,4 +1,4 @@
-// Store hours configuration - easily modifiable
+// Store hours config
 const storeHours = {
     0: { open: 6.5, close: 20 }, // Monday
     1: { open: 6.5, close: 20 }, // Tuesday
